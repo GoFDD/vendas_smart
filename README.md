@@ -48,7 +48,7 @@ Antes de inicializar o projeto, certifique-se de ter instalado:
 
 ```bash
 git clone <url-do-repositorio>
-cd sistema-vendas
+cd vendas_smart
 ```
 
 ### 2. Configurar o Back-end
