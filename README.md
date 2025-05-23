@@ -133,8 +133,9 @@ cd sistema-vendas
 ## Notas
 
 - Certifique-se de que o MySQL está rodando antes de executar `php artisan migrate`.
-- O front-end assume que a API está em `http://localhost:8000`. Ajuste a URL base no Axios se necessário.
-- Vue Mask está configurado no componentes de formulário ao cadastrar clientes.
+- O front-end assume que a API está em `http://localhost:8000`. 
+ - Ajuste a URL base no Axios se necessário.
+- Vue Mask está configurado no componente de formulário ao cadastrar clientes.
 
 ## 👨‍🔧 Possiveis melhorias no futuro
 
